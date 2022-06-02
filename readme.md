@@ -9,7 +9,7 @@ This code will send temperature from DS18B20 Thermometer to SocketIo server in J
 
 ## Installation
 
-Install all libraries above
+Install all libraries above and run the code.
 
 
 ## Usage
