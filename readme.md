@@ -1,5 +1,5 @@
 # Socket.Io ESP8266 Client Integration
-
+This code will send temperature from DS18B20 Thermometer to SocketIo server in JSON form
 ## Used libraries
 
 [SocketIo](https://github.com/Links2004/arduinoWebSockets)\
