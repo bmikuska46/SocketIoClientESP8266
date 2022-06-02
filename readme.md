@@ -11,9 +11,6 @@
 
 Install all libraries above
 
-```bash
-pip install foobar
-```
 
 ## Usage
 Set IP of a SocketIo server and port
